@@ -28,3 +28,5 @@ Decidan qué variables usarían para detectar actividad sospechosa en la ciudad 
 - Movimiento 
 - Alto 
 - Ruido
+
+Ya que que son las unicos variables que pudieran ayudar a detectar objetos fisicos que presenten una actividad sospechosa, la temperatura no tiene ni una relacion en este caso. 
