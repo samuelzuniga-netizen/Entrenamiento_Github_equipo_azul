@@ -5,4 +5,4 @@ Mensaje: HOLA → IPMB
 ### RETO
 Descubrir la regla usada para transformar el mensaje.
 ### RESOLUCION
-
+es una letra antes de la que se usa en el mensaje cifrado
