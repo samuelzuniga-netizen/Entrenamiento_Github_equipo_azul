@@ -1,0 +1,13 @@
+# Problema
+El zorro debe moverse por la ciudad evitando zonas bloqueadas.
+# Datos
+A --- B --- C
+|     |     |
+D --- E --- F
+Zonas bloqueadas: B
+
+# Reto
+Encontrar una ruta de A a F sin pasar por B.
+
+# Respuesta
+De A pasa a D, de D pasa a E, y de E pasa a F
