@@ -20,3 +20,5 @@ Ahora debemos probar si las reglas funcionan.
 # Reto
 Usar sus reglas para decidir si cada caso es seguro o sospechoso.
 
+caso A: actividad sospechosa
+caso B: no hay actividad sospechosa
