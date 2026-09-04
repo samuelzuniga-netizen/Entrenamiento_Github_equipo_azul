@@ -15,4 +15,4 @@ Modelo:
 
 - 😃 => positivo
 - 😤 => negativo 
-- 😐 => negatibo 
+- 😐 => negativo 
