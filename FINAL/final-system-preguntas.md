@@ -11,6 +11,6 @@ El zorro ha recorrido toda la ciudad. Ahora es momento de explicar cómo lograro
     - utilizamo la letra que le antecede del mensaje
 - ¿Cómo clasifica emociones su modelo de AI?
     - verificamos el gesto de la boca si sonrie es positivo, si no sonrie es negativp
-# Reto
+### Reto
 - Preparar una breve explicación de cómo su equipo resolvió los retos y cómo conectaron todas las partes del sistema.
-    - 
+    - Nos dividimos los problemas de manera que cada quien hizo una seccion de los ejercicios para al final poder elaborar el sistema
