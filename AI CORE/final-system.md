@@ -20,4 +20,12 @@ Sistema de rutas
 - El mejor momento del dia para moverse a la ciudad es a las 11:00
 
 Sistema de descifrado
-- 
+- Te ubicas en la primera palabra, en la primera letra
+- Buscas la letra antes de la letra que estas, y la sustituyes
+- Vas haciendo eso con las siguientes letras de la palabra
+- Lo mismo con la siguiente palabra y resuelves lo que quiso decir.
+
+Sistema de clasificacion
+- Sonrisa hacia arriba es igual a positivo
+- Gesto de labios hacia abajo negativo 
+- Gesto de fruncir de las cejas negativo 
